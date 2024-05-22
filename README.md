@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nimeishibaaa
-- 👀 I’m interested in ... 
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ... Object Detection
+- 🌱 I’m currently learning ... C++
 - The situation is this situation, while the specific situation depends on the situation
