@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nimeishibaaa
-- 👀 I’m interested in ... isaac_ros_dnn_inference
+- 👀 I’m interested in ... deep-learning detection tasks
 - 🌱 I’m currently learning ... 
 - The situation is this situation, while the specific situation depends on the situation
