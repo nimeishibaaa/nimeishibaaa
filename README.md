@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nimeishibaaa
 - 👀 I’m interested in ... deep-learning detection tasks
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently working on ... incremental learning
 - The situation is this situation, while the specific situation depends on the situation
